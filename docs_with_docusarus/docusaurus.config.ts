@@ -5,14 +5,14 @@ import remarkGfm from 'remark-gfm';
 import remarkMdxCodeMeta from 'remark-mdx-code-meta';
 
 const config: Config = {
-  title: 'Python-uv-project-template',
+  title: 'Test-Profiling-Agent',
   tagline: '🐍 Just a template of Python project be managed by UV.',
   favicon: 'img/python_logo_icon.png',
 
   // Set the production url of your site here
   url: 'https://chisanan232.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
-  baseUrl: '/Template-Python-UV-Project/',
+  baseUrl: '/test-profiling-agent/',
   projectName: 'chisanan232.github.io',
   organizationName: 'Chisanan232',
   trailingSlash: false,
@@ -66,7 +66,7 @@ const config: Config = {
         showLastUpdateTime: true,
         showLastUpdateAuthor: true,
         editUrl:
-          'https://github.com/Chisanan232/Template-Python-UV-Project/tree/master/docs/',
+          'https://github.com/Chisanan232/Test-Profiling-Agent/tree/master/docs/',
         versions: {
           current: {
             label: 'Next',
@@ -90,7 +90,7 @@ const config: Config = {
         showLastUpdateTime: true,
         showLastUpdateAuthor: true,
         editUrl:
-          'https://github.com/Chisanan232/Template-Python-UV-Project/tree/master/docs/',
+          'https://github.com/Chisanan232/Test-Profiling-Agent/tree/master/docs/',
         versions: {
           current: {
             label: 'Next',
@@ -111,7 +111,7 @@ const config: Config = {
         routeBasePath: 'blog',
         showReadingTime: true,
         editUrl:
-          'https://github.com/Chisanan232/Template-Python-UV-Project/tree/master/docs/',
+          'https://github.com/Chisanan232/Test-Profiling-Agent/tree/master/docs/',
       },
     ],
     [
@@ -120,7 +120,7 @@ const config: Config = {
         // Options for docusaurus-search-local
         hashed: true,
         language: ['en'],
-        docsRouteBasePath: ['/uv-template'],
+        docsRouteBasePath: ['/test-profiling-agent'],
         docsDir: ['./contents/document', './contents/development'],
         blogDir: ['./contents/blog'],
         highlightSearchTermsOnTargetPage: true,
@@ -141,7 +141,7 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/python_logo_icon.png',
     navbar: {
-      title: 'UV-Template',
+      title: 'Test-Profiling-Agent',
       logo: {
         alt: 'My Site Logo',
         src: 'img/python_logo_icon.png',
@@ -182,7 +182,7 @@ const config: Config = {
           dropdownItemsAfter: [],
         },
         {
-          href: 'https://github.com/Chisanan232/Template-Python-UV-Project',
+          href: 'https://github.com/Chisanan232/Test-Profiling-Agent',
           label: 'GitHub',
           position: 'right',
         },
@@ -213,11 +213,11 @@ const config: Config = {
           items: [
             {
               label: 'GitHub Issues',
-              href: 'https://github.com/Chisanan232/Template-Python-UV-Project/issues',
+              href: 'https://github.com/Chisanan232/Test-Profiling-Agent/issues',
             },
             {
               label: 'GitHub Discussions',
-              href: 'https://github.com/Chisanan232/Template-Python-UV-Project/discussions',
+              href: 'https://github.com/Chisanan232/Test-Profiling-Agent/discussions',
             },
           ],
         },
@@ -226,12 +226,12 @@ const config: Config = {
           items: [
             {
               label: 'GitHub Repository',
-              href: 'https://github.com/Chisanan232/Template-Python-UV-Project',
+              href: 'https://github.com/Chisanan232/Test-Profiling-Agent',
             },
           ],
         },
       ],
-      copyright: `Copyright ${new Date().getFullYear()} - PRESENT, Python-uv-project-template is owned by <a href="https://github.com/Chisanan232">@Chisanan232</a>.<br />Built with <a href="https://docusaurus.io/">Docusaurus</a>.`,
+      copyright: `Copyright ${new Date().getFullYear()} - PRESENT, Test-Profiling-Agent is owned by <a href="https://github.com/Chisanan232">@Chisanan232</a>.<br />Built with <a href="https://docusaurus.io/">Docusaurus</a>.`,
     },
     prism: {
       theme: prismThemes.github,
@@ -247,7 +247,7 @@ const config: Config = {
       tagName: 'link',
       attributes: {
         rel: 'canonical',
-        href: 'https://chisanan232.github.io/Template-Python-UV-Project/docs/introduction',
+        href: 'https://chisanan232.github.io/Test-Profiling-Agent/docs/introduction',
       },
     },
   ],
