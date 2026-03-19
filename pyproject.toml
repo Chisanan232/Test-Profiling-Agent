@@ -26,8 +26,12 @@ classifiers = [
 dependencies = []
 
 [project.urls]
-Homepage = "https://github.com/Chisanan232/Template-Python-UV-Project"
-Repository = "https://github.com/Chisanan232/Template-Python-UV-Project"
+Homepage = "https://github.com/Chisanan232/Test-Profiling-Agent"
+Repository = "https://github.com/Chisanan232/Test-Profiling-Agent"
+Document = "https://chisanan232.github.io/test-profiling-agent"
+Milestones = "https://github.com/Chisanan232/Test-Profiling-Agent/milestones"
+Planning-Management = "https://app.clickup.com/9018752317/v/f/901812942800/90184991515"
+Project-Management = "https://github.com/users/Chisanan232/projects/15/views/1?template_dialog_tab=featured&system_template=kanban"
 
 [dependency-groups]
 dev = [
