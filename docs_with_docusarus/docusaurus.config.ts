@@ -6,7 +6,7 @@ import remarkMdxCodeMeta from 'remark-mdx-code-meta';
 
 const config: Config = {
   title: 'Test-Profiling-Agent',
-  tagline: '🐍 Just a template of Python project be managed by UV.',
+  tagline: '🔬 An AI agent which focus on doing profiling of test part in a project.',
   favicon: 'img/python_logo_icon.png',
 
   // Set the production url of your site here
