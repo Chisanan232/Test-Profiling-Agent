@@ -35,7 +35,7 @@ Project-Management = "https://github.com/users/Chisanan232/projects/15/views/1?t
 
 [dependency-groups]
 dev = [
-    "pytest>=8.1.1,<10",
+    "pytest>=9.0.3,<10",
     "pytest-cov>=5.0.0,<8",
     "coverage~=7.10",
     "pytest-rerunfailures>=14.0,<17",
