@@ -1,3 +1,20 @@
+> ## 🗄️ Archived — 2026-09-24
+>
+> This repository is **archived and read-only**.
+>
+> Test-Profiling-Agent was an AI agent focused on profiling the test suite of a
+> project. It is no longer maintained or updated.
+>
+> Note that the README below was never filled in beyond the project template, so
+> it does not describe this project. No package was published from this
+> repository, and no successor project is being maintained in its place.
+>
+> All open pull requests were closed unmerged when the repository was archived,
+> including one unmerged CI change of the author's own
+> (`feat/add-source-folder-coverage-param`); its branch is preserved.
+
+---
+
 # Your lib name
 
 ## Overview
